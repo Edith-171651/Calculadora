@@ -87,7 +87,7 @@ export const btns =[
         class: 'btn__op'
     },
     {
-        display: 'sun',
+        display: '☀️',
         action: BTN_ACTIONS.THEME,
         class: ''
     },
